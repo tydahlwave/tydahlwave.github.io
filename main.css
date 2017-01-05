@@ -1,0 +1,14 @@
+body {
+  min-height: 2000px;
+  padding-top: 50px;
+}
+
+/*.profile h1, .profile p {
+   position: relative;
+   left: 50px;
+}*/
+
+.profile {
+   position: relative;
+   text-align: center;
+}
